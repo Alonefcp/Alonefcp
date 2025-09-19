@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Cuadra Plaza</h1>
 <h3 align="center">A passionate game developer and software engineer</h3>
 
-🔭 I'm currently working as a Software Engineer and on a collaborative project as the Lead Game Programmer at Curious Imp, developing [Aard and Wyzz: The rise of minions](https://store.steampowered.com/app/2984220/Aard_and_Wyzz_The_rise_of_minions/)
+🔭 I'm currently working as a Software Engineer and on a collaborative project as the Lead Game Programmer at [Curious Imp](https://www.curiousimpstudio.com/en), developing [Aard and Wyzz: The rise of minions](https://store.steampowered.com/app/2984220/Aard_and_Wyzz_The_rise_of_minions/)
 
 🌱 I'm looking forward to a long and exciting career in the video game industry, as video games are my true passion.
+
+🌎 I'm willing to relocate for new opportunities.
 
 👨‍💻 All of my projects are available at [my portfolio](https://felipecuadraplaza.wixsite.com/portfolio)
 
